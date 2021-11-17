@@ -1,2 +1,3 @@
 # fiesta paparapapa
-facciamo pesce e pesce po po po
+dramatic token joiner made in python (supports proxies) 
+- come ha detto massimo pericolo
